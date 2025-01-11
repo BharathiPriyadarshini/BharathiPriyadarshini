@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://github.com/BharathiPriyadarshini/BharathiPriyadarshini/blob/main/e726c74ac081eed50feee1433d12c998.gif /> </p>
 
-- 📫 How to reach me **bharathipriyadarshinibarik@gmail.com**
+<h4 align="left">- 📫 How to reach me: bharathipriyadarshinibarik@gmail.com</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
