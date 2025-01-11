@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Bharathi Priyadarshini Barik</h1>
 <h3 align="center">Frontend development Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/BharathiPriyadarshini/BharathiPriyadarshini/blob/main/coding-girl.gif" >
+<img align="right" alt="Coding" width="400" src="https://github.com/BharathiPriyadarshini/BharathiPriyadarshini/blob/main/e726c74ac081eed50feee1433d12c998.gif">
 
-<p align="left"> <img src="https://github.com/BharathiPriyadarshini/BharathiPriyadarshini/blob/main/e726c74ac081eed50feee1433d12c998.gif /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bharathipriyadarshini&label=Profile%20views&color=0e75b6&style=flat" alt="bharathipriyadarshini" /> </p>
 
 <h4 align="left">- 📫 How to reach me: bharathipriyadarshinibarik@gmail.com</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bharathi priyadarshini barik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharathi priyadarshini barik" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bharathi-priyadarshini-barik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharathi-priyadarshini-barik" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
